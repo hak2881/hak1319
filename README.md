@@ -14,9 +14,6 @@
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
           <br/></div>
     </div>
-    <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{username}?pet-id=1" width="1000" height="120"/>
-</a>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link="> </a>
@@ -29,4 +26,6 @@
         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hak1319&layout=compact&bg_color=180,02c6ed,00000000&title_color=000000&text_color=000000"
           /> </div> 
     </div>
-    
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{hak1319}?pet-id=1" width="1000" height="120"/>
+</a>
