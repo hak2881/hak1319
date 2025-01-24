@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://github.com/hak2881/hak1319/blob/main/git.png" />
+    <img src="" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> hak </h2>  
