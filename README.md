@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=HAK&animation=fadeIn&fontColor=000000&fontSize=90" />
+    <img src="![image](https://github.com/user-attachments/assets/73a3c76f-91e5-4418-be15-7bfd335d32a4)" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> hak </h2>  
